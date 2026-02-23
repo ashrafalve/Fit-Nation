@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" />
-</div>
-
 # FitNation - Your Personal Fitness Companion
 
 A comprehensive fitness tracking application to help you achieve your health and wellness goals.
