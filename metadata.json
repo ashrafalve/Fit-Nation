@@ -1,0 +1,7 @@
+{
+  "name": "FitNation",
+  "description": "A personalized health, diet, and bodybuilding application focused on country-specific nutrition and goal-based workout routines.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
